@@ -19,3 +19,18 @@ The project concludes with reporting queries that demonstrate how relational dat
 The Entity Relationship Diagram (ERD) shows the structure of the database and the relationships between each entity.  The database uses primary and foreign keys to connect violators, vehicles, officers, violations, and tickets while lookup and junction tables help maintain consistent and organized data.
 
 ![Traffic Violation Management System ERD](images/final_erd.png)
+
+## ⭐ Key Features
+
+- **Relational Database Design:** Designed and implemented a normalized database structure to manage traffic violations, tickets, vehicles, violators, officers, and supporting reference data.
+- **Data Integrity & Validation:** Used primary and foreign keys, validation functions, and database constraints to maintain accurate and consistent records.
+- **Automated Auditing:** Created audit tables and triggers to automatically track changes made to ticket and violation records.
+- **Stored Procedures:** Developed stored procedures to support common database operations and improve consistency when working with stored data.
+- **Indexing & Performance:** Implemented indexes on frequently accessed fields to support efficient data retrieval.
+- **Reporting:** Created detailed and summary SQL reports to transform transactional data into useful information for reviewing traffic violation activity.
+
+## 🛠️ Technologies & Skills
+
+**Technologies:** MySQL, MySQL Workbench, SQL
+
+**Database Skills:** Relational Database Design, ERD Development, DDL & DML, Primary & Foreign Keys, Indexing, Triggers, Stored Procedures, User-Defined Functions, Data Validation, Audit Tables, SQL Reporting
