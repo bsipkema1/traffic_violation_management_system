@@ -39,9 +39,9 @@ The Entity Relationship Diagram (ERD) shows the structure of the database and th
 
 - **[Traffic_Violation_Management_System_Script.sql](Traffic_Violation_Management_System_Script.sql)** — Complete MySQL script containing the database schema, sample data, indexes, audit functionality, validation functions, stored procedures, and reporting queries.
 
-- **[documentation/](documentation/)** — Full project report detailing the database design, implementation, testing, and results.
+- **[Traffic_Violation_Management_System_Report.pdf](documentation/Traffic_Violation_Management_System_Report.pdf)** — Full project report detailing the database design, implementation, testing, and results.
 
-- **[images/](images/)** — Entity Relationship Diagram (ERD) used within the README.
+- **[final_erd.png](images/final_erd.png)** — Entity Relationship Diagram (ERD) illustrating the database structure and table relationships.
 
 ## 🎓 Project Context
 
