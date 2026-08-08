@@ -34,3 +34,15 @@ The Entity Relationship Diagram (ERD) shows the structure of the database and th
 **Technologies:** MySQL, MySQL Workbench, SQL
 
 **Database Skills:** Relational Database Design, ERD Development, DDL & DML, Primary & Foreign Keys, Indexing, Triggers, Stored Procedures, User-Defined Functions, Data Validation, Audit Tables, SQL Reporting
+
+## 📁 Repository Contents
+
+- **[Traffic_Violation_Management_System_Script.sql](Traffic_Violation_Management_System_Script.sql)** — Complete MySQL script containing the database schema, sample data, indexes, audit functionality, validation functions, stored procedures, and reporting queries.
+
+- **[documentation/](documentation/)** — Full project report detailing the database design, implementation, testing, and results.
+
+- **[images/](images/)** — Entity Relationship Diagram (ERD) used within the README.
+
+## 🎓 Project Context
+
+Developed as a final project for Database Structures as part of my B.S. in Data Science & Analytics coursework. The project demonstrates the design and implementation of a complete relational database system using MySQL.
