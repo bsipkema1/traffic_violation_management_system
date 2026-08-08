@@ -16,3 +16,6 @@ The project concludes with reporting queries that demonstrate how relational dat
 
 ## 🗂️ Entity Relationship Diagram
 
+The Entity Relationship Diagram (ERD) shows the structure of the database and the relationships between each entity.  The database uses primary and foreign keys to connect violators, vehicles, officers, violations, and tickets while lookup and junction tables help maintain consistent and organized data.
+
+![Traffic Violation Management System ERD](images/final_erd.png)
